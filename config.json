@@ -1,7 +1,7 @@
 {
     "version": 1,
     "google_drive": {
-      "cutoff_date": "2025-01-01T00:00:00Z",
+      "cutoff_date": null,
       "cutoff_date_example__": "2026-06-01T00:00:00Z",
       "max_accounts_per_device": 3,
       "disabled_message": null
